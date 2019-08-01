@@ -13,5 +13,19 @@
     http://www.springframework.org/schema/aop/spring-aop.xsd
     http://www.springframework.org/schema/util
     http://www.springframework.org/schema/util/spring-util.xsd">
-<bean id="p" class="com.bit.bean.Person"/>
+
+
+
+
+    <bean id="p" class="com.bit.bean.Person">
+        <property name="pname" value="jiajia"/>
+    </bean>
+            <bean id="userInfo" class="com.bit.bean.UserInfo">
+                <property name="username" value="zhangsan"/>
+
+                <property name="person" ref="p"/>
+
+
+
+            </bean>
 </beans>

@@ -4,7 +4,18 @@ import com.bit.bean.Person;
 
 public class UserInfo
 {private String username;
-public  UserInfo()
+
+private Person person;
+
+    public Person getPerson() {
+        return person;
+    }
+
+    public void setPerson(Person person) {
+        this.person = person;
+    }
+
+    public  UserInfo()
 {}
 
     public String getUsername() {

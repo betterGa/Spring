@@ -12,20 +12,45 @@
     http://www.springframework.org/schema/aop
     http://www.springframework.org/schema/aop/spring-aop.xsd
     http://www.springframework.org/schema/util
-    http://www.springframework.org/schema/util/spring-util.xsd">
+    http://www.springframework.org/schema/util/spring-util.xsd"
+
+default-autowire="byType">
 
 
-
-
-    <bean id="p" class="com.bit.bean.Person">
-        <property name="pname" value="jiajia"/>
+    <bean id="abstractBean" abstract="true">
+        <property name="id" value="1"/>
+        <property name="username" value="jiajia"/>
     </bean>
-            <bean id="userInfo" class="com.bit.bean.UserInfo">
-                <property name="username" value="zhangsan"/>
 
-                <property name="person" ref="p"/>
+    <bean id="bean2" class="com.bit.bean2.Bean2">
+  <property name="bean3" ref="bean3"/>
+<property name="bean4" ref="bean4"/>
+    <property name="bean5" ref="bean5"/>
+</bean>
+
+
+  <bean id="bean3" class="com.bit.bean2.Bean3" parent="abstractBean">
+
+   <!--   <property name="id" value="1"/>
+      <property name="username" value="jiajia"/>-->
 
 
 
-            </bean>
+
+      <property name="password" value="123"/>
+  </bean>
+
+
+    <bean id="bean4" class="com.bit.bean2.Bean4" parent="abstractBean">
+        <!--   <property name="username" value="ohh"/>
+        <property name="id" value="456"/>-->
+
+    </bean>
+
+
+    <bean id="bean5" class="com.bit.bean2.Bean5" scope="prototype">
+            <property name="age" value="18">
+            </property>
+</bean>
+
 </beans>
