@@ -6,9 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JSPSERVLET" />
         <module name="spring_demo" />
         <module name="SpringProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ohh" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
