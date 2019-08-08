@@ -1,0 +1,6 @@
+Spring MVC:
+1.添加Mavenjar包到工程中去（pom.xml）。
+2.添加相关的配置我呢见到resources目录下。
+applicationContext,xml
+3.在IDEA中改变maven工程目录结构，添加webapp目录，使之成为web工程,并且修改artifacts为war包结构，再修改默认的编译输出路径为Tomcat下的webapps。
+4.修改web.xml文件，加入Sping mvc的前端控制器。
