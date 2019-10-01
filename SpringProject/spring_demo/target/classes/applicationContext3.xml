@@ -23,9 +23,10 @@ default-autowire="byType">
     </bean>
 
     <bean id="bean2" class="com.bit.bean2.Bean2">
-  <property name="bean3" ref="bean3"/>
+<!-->  <property name="bean3" ref="bean3"/>
 <property name="bean4" ref="bean4"/>
     <property name="bean5" ref="bean5"/>
+    <-->
 </bean>
 
 
