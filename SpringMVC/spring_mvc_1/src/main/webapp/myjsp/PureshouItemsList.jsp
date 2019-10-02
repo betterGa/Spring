@@ -1,3 +1,5 @@
+
+
 <%--
   Created by IntelliJ IDEA.
   User: Lenovo
@@ -21,19 +23,12 @@
         <th>ItemsPrice</th>
     <%--<td>ItemsCreateTime</td>--%>
 
-
-
-        <c:forEach items="${itemListKey}"var="itemsVar">
+        <c:forEach items="${itemListKey}" var="itemsVar">
             <tr>
             <td>${itemsVar.itemsId}</td>
             <td>${itemsVar.itemsName}</td>
             <td>${itemsVar.itemsPrice}</td>
           <%--  <td>${itemsVar.itemscreatime}</td>--%>
-
-
-
-
-
             </tr>
     </c:forEach>
 </table>

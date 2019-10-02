@@ -44,7 +44,7 @@ public class showItemsController implements Controller {
       itemsList.add(items3);
 
       ModelAndView modelAndView=new ModelAndView();
-      //request.setAttribute.value
+      //request.setAttribute(key,value)
       modelAndView.addObject("itemsListKey",itemsList);
       //request.getRequestDispatcher("showItemList.jsp").forward(request,response);
       modelAndView.setViewName("showItemsList");
