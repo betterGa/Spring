@@ -1,0 +1,17 @@
+1.添加Spring核心配置文件applicationContext到工程中
+
+（applicationContext文件就是Spring）
+<beans>
+
+</beans>
+
+2.添加相应的jar文件
+去Maven Respository官网
+在pom中添加dependency依赖。
+
+spring core,
+spring beans,
+spring context,
+spring aop
+
+3.用Spring管理类的初始化和类与类之间的关系

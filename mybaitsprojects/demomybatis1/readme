@@ -1,0 +1,14 @@
+如何构建Mybatis:
+1.添加相应的jar包到pom.xml
+2.配置(1)Core Config file-->sqlMapConfig.xml
+      (2)mapper Config file-->xxxMapper.xml
+3.添加日志信息log information到工程中，特指log4j.properties
+4.添加db.properties(driver,name,url.pass)到工程中
+5.执行单元测试
+
+
+Mybatis' APIs
+sqlSessionfactory:重量级，一个数据库对应一个sqlSessionfactory，作用是创建sqlSession
+sqlSession:轻量级对象，相当于JDBC中的Connection，用来执行增删改查操作
+
+

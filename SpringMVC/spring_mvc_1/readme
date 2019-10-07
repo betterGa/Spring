@@ -1,0 +1,19 @@
+Spring MVC:
+1.
+添加jar包到工程中去（pom.xml）。
+导入jar包，除了核心的spring core jar包以外，还需要导入spring web和spring web mvc 、servlet、jsp、Junit、tx、jstl、mysql-connector和el包。
+
+2.
+添加相关的配置文件applicationContext.xml到resources目录下。
+
+3.
+在IDEA中改变maven工程目录结构，
+添加webapp目录，使之成为web工程,
+并且修改artifacts为war包结构，
+再修改默认的编译输出路径为Tomcat下的webapps。
+
+
+4.修改web.xml文件，加入Sping mvc的前端控制器。
+
+
+在web.xml中配置前端控制器。

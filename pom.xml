@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.bit</groupId>
+<<<<<<< HEAD
     <artifactId>MybatisSynthe</artifactId>
     <version>1.0-SNAPSHOT</version>
 <dependencies>
@@ -49,3 +50,10 @@
 </resources>
     </build>
 </project>
+=======
+    <artifactId>JSPServlet</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    
+</project>
+>>>>>>> 298f21c19bdfdb65fdd5ed365381f518ead56050
