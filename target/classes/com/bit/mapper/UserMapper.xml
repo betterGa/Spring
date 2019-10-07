@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.bit.mapper.UserMapper">
+
+    <sql id="mySQL">
+            <if test="userEx!=null">
+                <if test="userEx.sex!=null">
+                    sex=#{userEx.sex}
+                </if>
+            </if>
+            <if test="userEx.username!=null">
+                and username like '%${userEx.username}%'
+            </if>
+
+        <if test="ids!=null">
+            <foreach collection="ids" item="everyId"
+                     open=""
+                     close=""
+                     separator="or">
+                id=#{everyId}
+            </foreach>
+        </if>
+
+    </sql>
+
+<sql id="mySQL2">
+    <if test="ids!=null">
+        <foreach collection="ids" item="everyId"
+                 open="id in (" close=")" separator=",">
+            #{everyId}
+        </foreach>
+    </if>
+</sql>
+
+
+    <select id="queryUserComp" parameterType="com.bit.Pack.UserPacking"
+            resultType="com.bit.po.UserEx">
+        select * from user
+        <where>
+       <include refid="mySQL"/>
+        </where>
+    </select>
+
+    <select id="queryUserByCount" parameterType="com.bit.Pack.UserPacking" resultType="int">
+    select count(*) from user
+    <where>
+        <include refid="mySQL"/>
+    </where>
+    </select>
+
+
+    <resultMap id="myResultMap" type="com.bit.po.User">
+        <result column="ID" property="id"/>
+    <result column="MyName" property="username"/>
+            <result column="MySex" property="sex"/>
+                <result column="MyAddress" property="address"/>
+    </resultMap>
+
+    <select id="queryUserByAlis" resultMap="myResultMap">
+select id ID, username as MyName,sex Mysex,address MyAddress from user;
+    </select>
+
+    <select id="queryUserMultyIds" parameterType="com.bit.Pack.UserPacking" resultType="com.bit.po.User">
+    select * from user
+    <where>
+            <include refid="mySQL"/>
+    </where>
+    </select>
+
+
+    <select id="queryUserMultyIds2" parameterType="com.bit.Pack.UserPacking" resultType="com.bit.po.User">
+    select * from user
+    <where>
+       <include refid="mySQL2"/>
+    </where>
+    </select>
+</mapper>
