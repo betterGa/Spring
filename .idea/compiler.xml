@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="MybatisSynthe" />
+=======
+        <module name="mySSMdemo" />
+>>>>>>> 20191008 Spring SSM
       </profile>
     </annotationProcessing>
   </component>

@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="2a527226-261c-4b6b-bf29-5d17beefc2ea" name="Default" comment="" />
+=======
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="mySSMdemo:Web exploded" />
+      <artifact name="mySSMdemo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e2f7e0e-79a2-4f62-a296-fdb96b44aaea" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../ChatrOOm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July20Learn3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../July20Learn3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July20Learn3/src/Filter/CharSetFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../July20Learn3/src/Filter/CharSetFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../July20Learn3/src/LoggingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../July20Learn3/src/LoggingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JulyChatRoomSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JulyChatRoomSocket/src/test/JDBCDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC2/springmvcdemo/src/main/java/com/bit/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC2/springmvcdemo/src/main/java/com/bit/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/main/CommUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/main/DruidDateSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/main/JDBCutils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/main/resourse/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/main/resourse/driversource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/test/CommUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chatRoomWebSocket/src/test/JDBCDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mySSM/mySSM/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/oj-DP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/src/TSP/TSP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oj-DP/src/TSP/TSP1.java" beforeDir="false" />
+    </list>
+>>>>>>> 20191008 Spring SSM
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +58,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
               <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+=======
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="OrderMapper.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/OrderMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+=======
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Orders.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/Orders.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,37 +114,72 @@
                 <element signature="e#1781#1782#0" expanded="true" />
                 <element signature="e#1811#1812#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Items.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/Items.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
               <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+=======
+      <file leaf-file-name="applicationContext-controller.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+=======
+      <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="UserEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/UserEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+=======
+      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="17" lean-forward="true" selection-end-line="23" selection-end-column="9" />
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="UserMapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,10 +188,23 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="Orderdetail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/Orderdetail.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,15 +216,30 @@
                 <element signature="e#287#288#0" expanded="true" />
                 <element signature="e#321#322#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+>>>>>>> 20191008 Spring SSM
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="MybatisTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MybatisTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
               <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+=======
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+>>>>>>> 20191008 Spring SSM
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,6 +253,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="sqlMapConfig" />
+<<<<<<< HEAD
         <option value="Interface" />
         <option value="xxxMapper" />
         <option value="Class" />
@@ -149,6 +281,41 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bit/po/OrdersEx.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/mapper/OrderMapper.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/bit/po/Orders.java" />
+=======
+        <option value="db.properties" />
+        <option value="db" />
+        <option value="xxxMapper" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="applicationContextforSpring" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resouces/mybatis/sqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/controller/controller.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/test/resouces/spring/applicationContext-controller.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/ohh.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/jsp/showUserList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/po/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/applictionContext-mapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml" />
+>>>>>>> 20191008 Spring SSM
       </list>
     </option>
   </component>
@@ -158,6 +325,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -175,20 +343,54 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mvn_local_respository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\Users\Lenovo\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> 20191008 Spring SSM
     <option name="x" value="295" />
     <option name="y" value="68" />
     <option name="width" value="1073" />
     <option name="height" value="744" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+>>>>>>> 20191008 Spring SSM
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+>>>>>>> 20191008 Spring SSM
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -200,10 +402,24 @@
             <path>
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -213,23 +429,58 @@
             <path>
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+            </path>
+            <path>
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="bit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="bit" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -238,8 +489,13 @@
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -248,6 +504,7 @@
               <item name="po" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -271,19 +528,57 @@
               <item name="MybatisSynthe" type="b2602c69:ProjectViewProjectNode" />
               <item name="MybatisSynthe" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bit" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySSMdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySSMdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 20191008 Spring SSM
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
+=======
+      <pane id="AndroidView" />
+>>>>>>> 20191008 Spring SSM
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="E:/TestMyBatisProjects(2)/TestMyBatisProjects/mybatistest1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -291,6 +586,21 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+=======
+    <property name="last_opened_file_path" value="E:/apache-tomcat-8.5.42/webapps/mySSMdemo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29662699" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\For Git\mySSMdemo\src\main\resources" />
+      <recent name="E:\For Git\mySSMdemo\src\main\webapp\" />
+    </key>
+>>>>>>> 20191008 Spring SSM
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -308,6 +618,7 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="MybatisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MybatisSynthe" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -325,6 +636,8 @@
       </option>
       <patterns />
     </configuration>
+=======
+>>>>>>> 20191008 Spring SSM
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -363,17 +676,160 @@
       <properties />
       <listeners />
     </configuration>
+<<<<<<< HEAD
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MybatisTest.test" />
       </list>
     </recent_temporary>
+=======
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mySSMdemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_mySSMdemo" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64089" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="mySSMdemo:war exploded" />
+          <artifact name="mySSMdemo:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="mySSMdemo" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="mySSMdemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_mySSMdemo" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64089" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+>>>>>>> 20191008 Spring SSM
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="2a527226-261c-4b6b-bf29-5d17beefc2ea" name="Default" comment="" />
       <created>1570256042486</created>
       <option name="number" value="Default" />
@@ -419,12 +875,27 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="46056000" />
+=======
+      <changelist id="7e2f7e0e-79a2-4f62-a296-fdb96b44aaea" name="Default" comment="" />
+      <created>1570435774319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570435774319</updated>
+      <workItem from="1570435779375" duration="13726000" />
+      <workItem from="1570513935068" duration="14217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27943000" />
+>>>>>>> 20191008 Spring SSM
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.40646258" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
@@ -483,6 +954,40 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
     </layout-to-restore>
+=======
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32879046" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39693356" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.20613287" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.100511074" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30711043" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.07155026" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+>>>>>>> 20191008 Spring SSM
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -490,6 +995,7 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
@@ -499,12 +1005,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+=======
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applictionContext-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+>>>>>>> 20191008 Spring SSM
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -525,10 +1051,29 @@
             <element signature="e#1743#1744#0" expanded="true" />
             <element signature="e#1781#1782#0" expanded="true" />
             <element signature="e#1811#1812#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="10" lean-forward="true" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 20191008 Spring SSM
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -553,12 +1098,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
           <caret line="44" column="24" lean-forward="true" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="34" />
+>>>>>>> 20191008 Spring SSM
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/OrderMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
@@ -641,10 +1207,82 @@
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/showUserList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/controller/controller.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/ohh.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <entry file="jar://D:/mvn_local_respository/org/mybatis/mybatis-spring/2.0.1/mybatis-spring-2.0.1.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/sqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="64" column="12" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
+          <folding>
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1387#1388#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/mvn_local_respository/org/mybatis/mybatis-spring/2.0.1/mybatis-spring-2.0.1.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applictionContext-mapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="e#1570#1586#0" expanded="true" />
+>>>>>>> 20191008 Spring SSM
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -661,20 +1299,46 @@
             <element signature="e#246#247#0" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#321#322#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/jsp/showUserList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> 20191008 Spring SSM
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/MybatisTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+>>>>>>> 20191008 Spring SSM
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/Items.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
@@ -700,10 +1364,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/po/OrdersEx.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="17" lean-forward="true" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/service/UserServiceImpl.java">
+>>>>>>> 20191008 Spring SSM
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#91#92#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
@@ -728,10 +1413,14 @@
             <element signature="e#910#911#0" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
             <element signature="e#996#997#0" expanded="true" />
+=======
+            <element signature="imports" expanded="true" />
+>>>>>>> 20191008 Spring SSM
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/com/bit/mapper/UserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -760,6 +1449,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-controller.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="60" />
+>>>>>>> 20191008 Spring SSM
         </state>
       </provider>
     </entry>
@@ -769,10 +1485,19 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+<<<<<<< HEAD
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>mySSMdemo:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29662699" />
+                <option value="0.5" />
+>>>>>>> 20191008 Spring SSM
               </list>
             </option>
           </splitter-proportions>
@@ -780,11 +1505,19 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>Web (mySSMdemo)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29662699" />
+>>>>>>> 20191008 Spring SSM
               </list>
             </option>
           </splitter-proportions>
@@ -815,11 +1548,19 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>MybatisSynthe</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>mySSMdemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29662699" />
+>>>>>>> 20191008 Spring SSM
                 <option value="0.6" />
               </list>
             </option>
@@ -840,11 +1581,19 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+<<<<<<< HEAD
           <last-edited>Maven: mysql:mysql-connector-java:5.1.38</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+          <last-edited>Maven: commons-dbcp:commons-dbcp:1.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29662699" />
+>>>>>>> 20191008 Spring SSM
               </list>
             </option>
           </splitter-proportions>
